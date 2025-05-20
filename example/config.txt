@@ -1,0 +1,2 @@
+Prefix plugins/EnhancerPrediction/example/
+Plugin EnhancerPrediction inputfile parameters.txt outputfile none
